@@ -59,7 +59,5 @@
 
 ---
 
-## 🎮 Hobby & Interests
-* **Gaming:** World War Z, TABS, The Forest.
-* **Investment:** US Stocks (NVDA) & Financial Planning.
-* **Hardware Enthusiast:** Spesialisasi PC/Laptop hardware (Intel Iris Xe setup).
+## 🎮 Hobby
+* **Gaming:** World War Z, TABS, The Forest, Among Us, Zomboid, PUBG, Valorant, Roblox, Minecraft, Rainbow Six, Call Of Duty, Counter Strike, Bloodstrike, GTA, Half life, Formula 1, E-Football, Fifa.

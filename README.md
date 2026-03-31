@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vimeo-3b3e51?style=for-the-badge&logo=vimeo&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/Vimeo-3b3e51?style=for-the-badge&logo=vimeo&logoColor=white"/> -->
 </p>
 
 ### 🎨 Design & Development Tools

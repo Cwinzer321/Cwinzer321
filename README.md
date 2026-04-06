@@ -38,6 +38,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
 </p>
-
-## 🎮 Hobby
-* **Gaming:** World War Z, TABS, The Forest, Among Us, Zomboid, PUBG, Valorant, Roblox, Minecraft, Rainbow Six, Call Of Duty, Counter Strike, Bloodstrike, GTA, Half life, Formula 1, E-Football, Fifa.
